@@ -1,1 +1,0 @@
-var = updateObjectWithKeyAndValue(object, key, value)
